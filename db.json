@@ -1,0 +1,40 @@
+{
+  "_createdAt": "2021-09-23T10:35:57Z",
+  "_id": "4733299b-3d37-4c09-b110-3eaf0825e8fd",
+  "_rev": "91mNbnWW9fkBqVwXv6cw5H",
+  "_type": "konsert",
+  "artist": {
+    "_ref": "1a9e0628-6216-4a43-ac7c-bbffb9da2468",
+    "_type": "reference"
+  },
+  "body": [
+    {
+      "_key": "00036861158f",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "1d3bebd2bb5d",
+          "_type": "span",
+          "marks": [],
+          "text": "Tekst"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    }
+  ],
+  "categories": [
+    {
+      "_key": "d6a08346c9cf",
+      "_ref": "254d79b0-f5f4-48b0-bd81-db8793aa811b",
+      "_type": "reference"
+    }
+  ],
+  "publishedAt": "2021-09-23T10:36:47.669Z",
+  "slug": {
+    "_type": "slug",
+    "current": "konsert-kjartan-laurtizen"
+  },
+  "title": "Konsert: Kjartan Laurtizen",
+  "_updatedAt": "2021-09-23T10:37:04.088Z"
+}
